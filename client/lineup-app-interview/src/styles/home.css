@@ -1,0 +1,7 @@
+.main-body {
+    justify-content: center;
+    display: block;
+    position: absolute;
+    top: 35vh;
+    left: 30vw;
+}

@@ -1,0 +1,14 @@
+.form-body {
+    width: 40vw;
+    padding: 2vw;
+    margin: 1vh;
+    min-height: 20vh;
+    max-height: 20vh;
+
+    color: white;
+    background-color: black;
+}
+
+.title-text {
+    font-size: 25px;
+}
